@@ -46,6 +46,11 @@
             <artifactId>pinyin4j</artifactId>
             <version>2.5.1</version>
         </dependency>
+            <dependency>
+                <groupId>io.github.frapples.javapinyin</groupId>
+                <artifactId>java-pinyin</artifactId>
+                <version>1.0-alpha-1</version>
+            </dependency>
     </dependencies>
 
     <build>
