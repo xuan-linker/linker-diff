@@ -1,6 +1,5 @@
 package com.zju.dq.diff.exception;
 
-import com.zju.dq.diff.myers.DiffException;
 
 /**
  * @author Linker
