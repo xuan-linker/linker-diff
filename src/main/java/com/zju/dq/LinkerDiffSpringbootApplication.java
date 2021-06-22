@@ -1,4 +1,4 @@
-package com.zju.dq.diff;
+package com.zju.dq;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
